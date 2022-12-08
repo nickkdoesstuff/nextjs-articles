@@ -4,8 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 **Requirements**
 - [Node.JS](https://nodejs.org/en/)
-- [Pocketbase](https://pocketbase.io/)
-- [Next.JS V13](https://nextjs.org/) *(Note: Version 13 required)*
+- [Pocketbase](https://pocketbase.io/) *(Note: Pocketbase.exe should already be provided)*
+- [Next.JS V13](https://nextjs.org/) *(Note: Version 13 required, should already be provided)*
 
 To start, run the backend development server
 
