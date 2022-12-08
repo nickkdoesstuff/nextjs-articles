@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+**Requirements**
+- [Node.JS](https://nodejs.org/en/)
+- [Pocketbase](https://pocketbase.io/)
+- [Next.JS V13](https://nextjs.org/) *(Note: Version 13 required)*
+
 To start, run the backend development server
 
 ```bash
