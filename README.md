@@ -8,7 +8,7 @@ To start, run the backend development server
 ./pocketbase serve
 ```
 
-Then, run the frontend development server **(NOTE: uses TURBOPACK (a beta feature). To disable, remove the --turbo flag from the scripts**
+Then, run the frontend development server **(NOTE: uses TURBOPACK (a beta feature). To disable, remove the --turbo flag from the scripts**)
 
 ```bash
 npm run dev
